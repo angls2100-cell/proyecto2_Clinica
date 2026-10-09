@@ -9,5 +9,17 @@ package app_proyectoclinica;
  * @author tzulmoran
  */
 public class Persona {
+    //Propuesta de atributos
+    private String nombre;
+    private String apellido;
+    private String telefono;
+    private String DPI;
+    private int edad;
+    private String genero;
+    private String telefono;
+    private String direccion;
+    private String correo;
+    
+    
     
 }
